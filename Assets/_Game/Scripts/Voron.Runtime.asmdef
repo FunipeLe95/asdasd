@@ -1,0 +1,6 @@
+{
+  "name": "Voron.Runtime",
+  "rootNamespace": "Voron",
+  "references": ["Unity.InputSystem", "UnityEngine.UI"],
+  "autoReferenced": true
+}

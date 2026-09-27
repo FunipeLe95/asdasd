@@ -1,0 +1,475 @@
+{
+  "animations": {
+    "checks": [
+      "idle loops",
+      "talk starts and ends in the idle pose",
+      "feet planted",
+      "hand holds reached",
+      "FBX takes match the source poses"
+    ],
+    "fps": 24,
+    "takes": {
+      "Idle": {
+        "frames": 144,
+        "loop": true
+      },
+      "Talk": {
+        "frames": 96,
+        "loop": false,
+        "speech_windows": [
+          [
+            0.1,
+            0.44
+          ],
+          [
+            0.56,
+            0.86
+          ]
+        ]
+      }
+    }
+  },
+  "blender_version": "4.5.3 LTS",
+  "characters": [
+    {
+      "bones": [
+        "Hips",
+        "Spine",
+        "Chest",
+        "Neck",
+        "Head",
+        "LeftShoulder",
+        "LeftUpperArm",
+        "LeftLowerArm",
+        "LeftHand",
+        "RightShoulder",
+        "RightUpperArm",
+        "RightLowerArm",
+        "RightHand",
+        "LeftUpperLeg",
+        "LeftLowerLeg",
+        "LeftFoot",
+        "RightUpperLeg",
+        "RightLowerLeg",
+        "RightFoot"
+      ],
+      "components": {
+        "Accessories": {
+          "max_influences": 1,
+          "triangles": 28,
+          "uv_map": "UVMap",
+          "vertices": 24,
+          "weights_normalized": true
+        },
+        "Body": {
+          "max_influences": 2,
+          "triangles": 496,
+          "uv_map": "UVMap",
+          "vertices": 304,
+          "weights_normalized": true
+        },
+        "Clothing": {
+          "max_influences": 2,
+          "triangles": 1400,
+          "uv_map": "UVMap",
+          "vertices": 762,
+          "weights_normalized": true
+        },
+        "Eyes": {
+          "max_influences": 1,
+          "triangles": 16,
+          "uv_map": "UVMap",
+          "vertices": 18,
+          "weights_normalized": true
+        },
+        "Face": {
+          "max_influences": 1,
+          "triangles": 294,
+          "uv_map": "UVMap",
+          "vertices": 175,
+          "weights_normalized": true
+        },
+        "Hair": {
+          "max_influences": 1,
+          "triangles": 416,
+          "uv_map": "UVMap",
+          "vertices": 221,
+          "weights_normalized": true
+        },
+        "Head": {
+          "max_influences": 1,
+          "triangles": 302,
+          "uv_map": "UVMap",
+          "vertices": 184,
+          "weights_normalized": true
+        }
+      },
+      "display_name": "Character Base",
+      "file": "Assets/_Game/Art/Characters/CharacterBase.fbx",
+      "height_m": 1.8013,
+      "id": "CharacterBase",
+      "rest_pose": "Neutral standing; arms rest alongside the torso.",
+      "rig_path": "Armature/Hips/Spine/Chest/Neck/Head",
+      "total_triangles": 2952
+    },
+    {
+      "bones": [
+        "Hips",
+        "Spine",
+        "Chest",
+        "Neck",
+        "Head",
+        "LeftShoulder",
+        "LeftUpperArm",
+        "LeftLowerArm",
+        "LeftHand",
+        "RightShoulder",
+        "RightUpperArm",
+        "RightLowerArm",
+        "RightHand",
+        "LeftUpperLeg",
+        "LeftLowerLeg",
+        "LeftFoot",
+        "RightUpperLeg",
+        "RightLowerLeg",
+        "RightFoot"
+      ],
+      "components": {
+        "Accessories": {
+          "max_influences": 2,
+          "triangles": 60,
+          "uv_map": "UVMap",
+          "vertices": 36,
+          "weights_normalized": true
+        },
+        "Body": {
+          "max_influences": 2,
+          "triangles": 496,
+          "uv_map": "UVMap",
+          "vertices": 304,
+          "weights_normalized": true
+        },
+        "Clothing": {
+          "max_influences": 2,
+          "triangles": 1743,
+          "uv_map": "UVMap",
+          "vertices": 973,
+          "weights_normalized": true
+        },
+        "Eyes": {
+          "max_influences": 1,
+          "triangles": 16,
+          "uv_map": "UVMap",
+          "vertices": 18,
+          "weights_normalized": true
+        },
+        "Face": {
+          "max_influences": 1,
+          "triangles": 294,
+          "uv_map": "UVMap",
+          "vertices": 175,
+          "weights_normalized": true
+        },
+        "Hair": {
+          "max_influences": 1,
+          "triangles": 440,
+          "uv_map": "UVMap",
+          "vertices": 233,
+          "weights_normalized": true
+        },
+        "Head": {
+          "max_influences": 1,
+          "triangles": 302,
+          "uv_map": "UVMap",
+          "vertices": 184,
+          "weights_normalized": true
+        }
+      },
+      "display_name": "Alexey Voron",
+      "file": "Assets/_Game/Art/Characters/AlexeyVoron.fbx",
+      "height_m": 1.8065,
+      "id": "AlexeyVoron",
+      "rest_pose": "Neutral standing; arms rest alongside the torso.",
+      "rig_path": "Armature/Hips/Spine/Chest/Neck/Head",
+      "total_triangles": 3351
+    },
+    {
+      "bones": [
+        "Hips",
+        "Spine",
+        "Chest",
+        "Neck",
+        "Head",
+        "LeftShoulder",
+        "LeftUpperArm",
+        "LeftLowerArm",
+        "LeftHand",
+        "RightShoulder",
+        "RightUpperArm",
+        "RightLowerArm",
+        "RightHand",
+        "LeftUpperLeg",
+        "LeftLowerLeg",
+        "LeftFoot",
+        "RightUpperLeg",
+        "RightLowerLeg",
+        "RightFoot"
+      ],
+      "components": {
+        "Accessories": {
+          "max_influences": 2,
+          "triangles": 172,
+          "uv_map": "UVMap",
+          "vertices": 104,
+          "weights_normalized": true
+        },
+        "Body": {
+          "max_influences": 2,
+          "triangles": 496,
+          "uv_map": "UVMap",
+          "vertices": 304,
+          "weights_normalized": true
+        },
+        "Clothing": {
+          "max_influences": 2,
+          "triangles": 2090,
+          "uv_map": "UVMap",
+          "vertices": 1122,
+          "weights_normalized": true
+        },
+        "Eyes": {
+          "max_influences": 1,
+          "triangles": 16,
+          "uv_map": "UVMap",
+          "vertices": 18,
+          "weights_normalized": true
+        },
+        "Face": {
+          "max_influences": 1,
+          "triangles": 294,
+          "uv_map": "UVMap",
+          "vertices": 175,
+          "weights_normalized": true
+        },
+        "Hair": {
+          "max_influences": 2,
+          "triangles": 628,
+          "uv_map": "UVMap",
+          "vertices": 327,
+          "weights_normalized": true
+        },
+        "Head": {
+          "max_influences": 1,
+          "triangles": 302,
+          "uv_map": "UVMap",
+          "vertices": 184,
+          "weights_normalized": true
+        }
+      },
+      "display_name": "Elena Voron",
+      "file": "Assets/_Game/Art/Characters/ElenaVoron.fbx",
+      "height_m": 1.7949,
+      "id": "ElenaVoron",
+      "rest_pose": "Neutral standing; arms rest alongside the torso.",
+      "rig_path": "Armature/Hips/Spine/Chest/Neck/Head",
+      "total_triangles": 3998
+    },
+    {
+      "bones": [
+        "Hips",
+        "Spine",
+        "Chest",
+        "Neck",
+        "Head",
+        "LeftShoulder",
+        "LeftUpperArm",
+        "LeftLowerArm",
+        "LeftHand",
+        "RightShoulder",
+        "RightUpperArm",
+        "RightLowerArm",
+        "RightHand",
+        "LeftUpperLeg",
+        "LeftLowerLeg",
+        "LeftFoot",
+        "RightUpperLeg",
+        "RightLowerLeg",
+        "RightFoot"
+      ],
+      "components": {
+        "Accessories": {
+          "max_influences": 2,
+          "triangles": 248,
+          "uv_map": "UVMap",
+          "vertices": 136,
+          "weights_normalized": true
+        },
+        "Body": {
+          "max_influences": 2,
+          "triangles": 496,
+          "uv_map": "UVMap",
+          "vertices": 304,
+          "weights_normalized": true
+        },
+        "Clothing": {
+          "max_influences": 2,
+          "triangles": 1718,
+          "uv_map": "UVMap",
+          "vertices": 942,
+          "weights_normalized": true
+        },
+        "Eyes": {
+          "max_influences": 1,
+          "triangles": 16,
+          "uv_map": "UVMap",
+          "vertices": 18,
+          "weights_normalized": true
+        },
+        "Face": {
+          "max_influences": 1,
+          "triangles": 294,
+          "uv_map": "UVMap",
+          "vertices": 175,
+          "weights_normalized": true
+        },
+        "Hair": {
+          "max_influences": 1,
+          "triangles": 160,
+          "uv_map": "UVMap",
+          "vertices": 102,
+          "weights_normalized": true
+        },
+        "Head": {
+          "max_influences": 1,
+          "triangles": 302,
+          "uv_map": "UVMap",
+          "vertices": 184,
+          "weights_normalized": true
+        }
+      },
+      "display_name": "Dr. Ilya Morozov",
+      "file": "Assets/_Game/Art/Characters/DrIlyaMorozov.fbx",
+      "height_m": 1.7905,
+      "id": "DrIlyaMorozov",
+      "rest_pose": "Neutral standing; arms rest alongside the torso.",
+      "rig_path": "Armature/Hips/Spine/Chest/Neck/Head",
+      "total_triangles": 3234
+    },
+    {
+      "bones": [
+        "Hips",
+        "Spine",
+        "Chest",
+        "Neck",
+        "Head",
+        "LeftShoulder",
+        "LeftUpperArm",
+        "LeftLowerArm",
+        "LeftHand",
+        "RightShoulder",
+        "RightUpperArm",
+        "RightLowerArm",
+        "RightHand",
+        "LeftUpperLeg",
+        "LeftLowerLeg",
+        "LeftFoot",
+        "RightUpperLeg",
+        "RightLowerLeg",
+        "RightFoot"
+      ],
+      "components": {
+        "Accessories": {
+          "max_influences": 2,
+          "triangles": 506,
+          "uv_map": "UVMap",
+          "vertices": 303,
+          "weights_normalized": true
+        },
+        "Body": {
+          "max_influences": 2,
+          "triangles": 496,
+          "uv_map": "UVMap",
+          "vertices": 304,
+          "weights_normalized": true
+        },
+        "Clothing": {
+          "max_influences": 2,
+          "triangles": 1595,
+          "uv_map": "UVMap",
+          "vertices": 895,
+          "weights_normalized": true
+        },
+        "Eyes": {
+          "max_influences": 1,
+          "triangles": 16,
+          "uv_map": "UVMap",
+          "vertices": 18,
+          "weights_normalized": true
+        },
+        "Face": {
+          "max_influences": 1,
+          "triangles": 294,
+          "uv_map": "UVMap",
+          "vertices": 175,
+          "weights_normalized": true
+        },
+        "Hair": {
+          "max_influences": 1,
+          "triangles": 128,
+          "uv_map": "UVMap",
+          "vertices": 85,
+          "weights_normalized": true
+        },
+        "Head": {
+          "max_influences": 1,
+          "triangles": 302,
+          "uv_map": "UVMap",
+          "vertices": 184,
+          "weights_normalized": true
+        }
+      },
+      "display_name": "Police Officer",
+      "file": "Assets/_Game/Art/Characters/PoliceOfficer.fbx",
+      "height_m": 1.7923,
+      "id": "PoliceOfficer",
+      "rest_pose": "Neutral standing; arms rest alongside the torso.",
+      "rig_path": "Armature/Hips/Spine/Chest/Neck/Head",
+      "total_triangles": 3337
+    }
+  ],
+  "components": [
+    "Body",
+    "Head",
+    "Face",
+    "Eyes",
+    "Hair",
+    "Clothing",
+    "Accessories"
+  ],
+  "coordinate_system": {
+    "fbx_export": "Y-up, -Z forward axis conversion for Unity +Z-forward scenes",
+    "ground": "Y=0 after FBX axis conversion",
+    "source": "Blender Z-up; characters face local -Y",
+    "unity_height_m": 1.8
+  },
+  "quality_checks": {
+    "fbx_round_trip_import": true,
+    "geometry_review": [
+      "soles on the ground",
+      "no torso skin under clothes",
+      "face unobstructed",
+      "crown hair covers the scalp"
+    ],
+    "max_influences": 4,
+    "one_shared_armature_per_fbx": true,
+    "pose_deformation_smoke_test": true,
+    "uv_range": "0..1",
+    "weights_normalized": true
+  },
+  "schema": "voron-character-art-metrics-2",
+  "texture_paths": {
+    "clothing": "Assets/_Game/Art/Textures/Characters/*_Clothing.png (256x256 atlas for other meshes)",
+    "faces": "Assets/_Game/Art/Textures/Faces/*_Face.png, *_FaceTalk.png, *_FaceBlink.png (128x128, Face and Eyes meshes)",
+    "ui_icons": "Assets/_Game/Art/UI/Icons/*_32.png (32x32)"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "name": "Voron.PlayModeTests",
+  "rootNamespace": "Voron.Tests.PlayMode",
+  "references": ["Voron.Runtime", "Unity.InputSystem", "UnityEngine.UI"],
+  "optionalUnityReferences": ["TestAssemblies"],
+  "autoReferenced": false
+}

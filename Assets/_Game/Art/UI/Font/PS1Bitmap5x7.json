@@ -1,0 +1,336 @@
+{
+  "format": "voron-bitmap-font-1",
+  "atlas": "PS1Bitmap5x7.png",
+  "width": 128,
+  "height": 24,
+  "cell": [
+    8,
+    8
+  ],
+  "glyphs": {
+    " ": {
+      "x": 1,
+      "y": 0,
+      "width": 3,
+      "height": 7,
+      "advance": 6
+    },
+    "A": {
+      "x": 9,
+      "y": 0,
+      "width": 5,
+      "height": 7,
+      "advance": 6
+    },
+    "B": {
+      "x": 17,
+      "y": 0,
+      "width": 5,
+      "height": 7,
+      "advance": 6
+    },
+    "C": {
+      "x": 25,
+      "y": 0,
+      "width": 5,
+      "height": 7,
+      "advance": 6
+    },
+    "D": {
+      "x": 33,
+      "y": 0,
+      "width": 5,
+      "height": 7,
+      "advance": 6
+    },
+    "E": {
+      "x": 41,
+      "y": 0,
+      "width": 5,
+      "height": 7,
+      "advance": 6
+    },
+    "F": {
+      "x": 49,
+      "y": 0,
+      "width": 5,
+      "height": 7,
+      "advance": 6
+    },
+    "G": {
+      "x": 57,
+      "y": 0,
+      "width": 5,
+      "height": 7,
+      "advance": 6
+    },
+    "H": {
+      "x": 65,
+      "y": 0,
+      "width": 5,
+      "height": 7,
+      "advance": 6
+    },
+    "I": {
+      "x": 73,
+      "y": 0,
+      "width": 5,
+      "height": 7,
+      "advance": 6
+    },
+    "J": {
+      "x": 81,
+      "y": 0,
+      "width": 5,
+      "height": 7,
+      "advance": 6
+    },
+    "K": {
+      "x": 89,
+      "y": 0,
+      "width": 5,
+      "height": 7,
+      "advance": 6
+    },
+    "L": {
+      "x": 97,
+      "y": 0,
+      "width": 5,
+      "height": 7,
+      "advance": 6
+    },
+    "M": {
+      "x": 105,
+      "y": 0,
+      "width": 5,
+      "height": 7,
+      "advance": 6
+    },
+    "N": {
+      "x": 113,
+      "y": 0,
+      "width": 5,
+      "height": 7,
+      "advance": 6
+    },
+    "O": {
+      "x": 121,
+      "y": 0,
+      "width": 5,
+      "height": 7,
+      "advance": 6
+    },
+    "P": {
+      "x": 1,
+      "y": 8,
+      "width": 5,
+      "height": 7,
+      "advance": 6
+    },
+    "Q": {
+      "x": 9,
+      "y": 8,
+      "width": 5,
+      "height": 7,
+      "advance": 6
+    },
+    "R": {
+      "x": 17,
+      "y": 8,
+      "width": 5,
+      "height": 7,
+      "advance": 6
+    },
+    "S": {
+      "x": 25,
+      "y": 8,
+      "width": 5,
+      "height": 7,
+      "advance": 6
+    },
+    "T": {
+      "x": 33,
+      "y": 8,
+      "width": 5,
+      "height": 7,
+      "advance": 6
+    },
+    "U": {
+      "x": 41,
+      "y": 8,
+      "width": 5,
+      "height": 7,
+      "advance": 6
+    },
+    "V": {
+      "x": 49,
+      "y": 8,
+      "width": 5,
+      "height": 7,
+      "advance": 6
+    },
+    "W": {
+      "x": 57,
+      "y": 8,
+      "width": 5,
+      "height": 7,
+      "advance": 6
+    },
+    "X": {
+      "x": 65,
+      "y": 8,
+      "width": 5,
+      "height": 7,
+      "advance": 6
+    },
+    "Y": {
+      "x": 73,
+      "y": 8,
+      "width": 5,
+      "height": 7,
+      "advance": 6
+    },
+    "Z": {
+      "x": 81,
+      "y": 8,
+      "width": 5,
+      "height": 7,
+      "advance": 6
+    },
+    "0": {
+      "x": 89,
+      "y": 8,
+      "width": 5,
+      "height": 7,
+      "advance": 6
+    },
+    "1": {
+      "x": 97,
+      "y": 8,
+      "width": 5,
+      "height": 7,
+      "advance": 6
+    },
+    "2": {
+      "x": 105,
+      "y": 8,
+      "width": 5,
+      "height": 7,
+      "advance": 6
+    },
+    "3": {
+      "x": 113,
+      "y": 8,
+      "width": 5,
+      "height": 7,
+      "advance": 6
+    },
+    "4": {
+      "x": 121,
+      "y": 8,
+      "width": 5,
+      "height": 7,
+      "advance": 6
+    },
+    "5": {
+      "x": 1,
+      "y": 16,
+      "width": 5,
+      "height": 7,
+      "advance": 6
+    },
+    "6": {
+      "x": 9,
+      "y": 16,
+      "width": 5,
+      "height": 7,
+      "advance": 6
+    },
+    "7": {
+      "x": 17,
+      "y": 16,
+      "width": 5,
+      "height": 7,
+      "advance": 6
+    },
+    "8": {
+      "x": 25,
+      "y": 16,
+      "width": 5,
+      "height": 7,
+      "advance": 6
+    },
+    "9": {
+      "x": 33,
+      "y": 16,
+      "width": 5,
+      "height": 7,
+      "advance": 6
+    },
+    ".": {
+      "x": 41,
+      "y": 16,
+      "width": 5,
+      "height": 7,
+      "advance": 6
+    },
+    ",": {
+      "x": 49,
+      "y": 16,
+      "width": 5,
+      "height": 7,
+      "advance": 6
+    },
+    "!": {
+      "x": 57,
+      "y": 16,
+      "width": 5,
+      "height": 7,
+      "advance": 6
+    },
+    "?": {
+      "x": 65,
+      "y": 16,
+      "width": 5,
+      "height": 7,
+      "advance": 6
+    },
+    ":": {
+      "x": 73,
+      "y": 16,
+      "width": 5,
+      "height": 7,
+      "advance": 6
+    },
+    "-": {
+      "x": 81,
+      "y": 16,
+      "width": 5,
+      "height": 7,
+      "advance": 6
+    },
+    "+": {
+      "x": 89,
+      "y": 16,
+      "width": 5,
+      "height": 7,
+      "advance": 6
+    },
+    "'": {
+      "x": 97,
+      "y": 16,
+      "width": 5,
+      "height": 7,
+      "advance": 6
+    },
+    "/": {
+      "x": 105,
+      "y": 16,
+      "width": 5,
+      "height": 7,
+      "advance": 6
+    }
+  },
+  "fallback": "?",
+  "note": "Original uppercase 5x7 bitmap glyphs; transparent atlas, point filtering recommended."
+}

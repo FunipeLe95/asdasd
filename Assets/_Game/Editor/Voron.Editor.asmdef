@@ -1,0 +1,7 @@
+{
+  "name": "Voron.Editor",
+  "rootNamespace": "Voron.Editor",
+  "references": ["Voron.Runtime", "Unity.InputSystem", "UnityEngine.UI"],
+  "includePlatforms": ["Editor"],
+  "autoReferenced": true
+}
